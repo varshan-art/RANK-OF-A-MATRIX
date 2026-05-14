@@ -27,7 +27,8 @@ print(X)
 
 ```
 ## Output:
-<img width="1271" height="792" alt="image" src="https://github.com/user-attachments/assets/f710aa92-b344-4c40-87fb-bb7046d9c93c" />
+<img width="1276" height="832" alt="image" src="https://github.com/user-attachments/assets/a08c9371-1588-4c58-b35b-0e4fb344bac9" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
